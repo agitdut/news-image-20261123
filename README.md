@@ -1,8 +1,8 @@
 # Monday 23 November 2026 — The Day in One Picture
 
-[![Bounty](https://img.shields.io/badge/bounty-news--image--20261123-blue)](https://make.fun/bounty/news-image-20261123)
-[![Reward](https://img.shields.io/badge/reward-%24100-green)](https://make.fun/bounty/news-image-20261123)
-[![Rank](https://img.shields.io/badge/rank-unranked-lightgrey)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/agitdut/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/agitdut/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 One image that sums up Monday 23 November 2026's world news, drawn as a
 newspaper front page: **COP31 collapses** — the first failed climate summit
